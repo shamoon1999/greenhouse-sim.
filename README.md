@@ -1,2 +1,1 @@
-# greenhouse-sim.
-greenhouse working
+# solar_power
